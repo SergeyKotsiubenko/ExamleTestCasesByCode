@@ -1,2 +1,2 @@
-# ExamleTestCasesByCode
+# ExampleTestCasesByCode
 Wright Test-Cases By Code
